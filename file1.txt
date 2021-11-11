@@ -1,0 +1,2 @@
+On your iPhone, go to Settings > Phone > Wi-Fi Calling.
+Turn on Add Wi-Fi Calling For Other Devices.

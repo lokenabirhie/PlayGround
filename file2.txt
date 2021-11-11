@@ -1,0 +1,3 @@
+Go back to the previous screen, then tap Calls on Other Devices.
+Turn on Allow Calls on Other Devices if it's not on. ...
+Turn on each device that you want to use with Wi-Fi Calling.
